@@ -9,6 +9,8 @@ def capitalize_words(input_string):
         str: Строка, где первые буквы каждого слова заглавные.
     """
     return input_string.title()
+
+
 def to_uppercase(input_string):
     """
     Преобразует все символы строки в верхний регистр.
